@@ -74,7 +74,7 @@ GET http://localhost:8080/github/octocat/repos
 ```json
 {
   "status": 404,
-  "message": "Github user not found"
+  "message": "GitHub user not found"
 }
 ```
 
